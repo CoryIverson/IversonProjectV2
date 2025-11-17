@@ -7,9 +7,8 @@ objects_heading: "See the objects behind the stories"
 objects_intro: "Browse {count} objects featured in the stories."
 ---
 
-## Welcome to the Telar Demo Site Test 1
-This site showcases the features and capabilities of Telar (v.[{{ site.telar.version }}](https://github.com/UCSB-AMPLab/telar/releases/tag/v{{ site.telar.version }})). Build your own visual narrative exhibition by visiting:
-
+## Welcome to the Iverson Special Collection Project (V2) Test.
+This site showcases the Darwin Special Collection at UCSB. This is currently a work in progress.
 - Our **[GitHub repository](https://github.com/UCSB-AMPLab/telar)**, where you can copy the template to create your own project
 - The **[documentation site](https://ampl.clair.ucsb.edu/telar-docs)**, where you can find guides and tutorials
 
