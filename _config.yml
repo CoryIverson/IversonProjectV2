@@ -4,7 +4,7 @@
 # Site Settings
 title: Darwin Collection
 description: "This is simply a test for my V2. Or is it? This is a site dedicated to exploring more closely the Charles Darwin / Evolution collection at UCSB's Special Research Collections."
-baseurl: "/CoryIverson/IversonProjectV2/"
+baseurl: "/IversonProjectV2"
 url: "https://coryiverson.github.io/IversonProjectV2/"
 author: ""
 email: ""
