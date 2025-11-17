@@ -1,7 +1,7 @@
 ---
-term_id: colonial-period
-title: "Colonial Period"
-related_terms: encomienda,viceroyalty
+term_id: Thomas-Huxley
+title: "Thomas Henry Huxley"
+related_terms: OoS (Orgin of species),Evolution,Darwin
 ---
 
-The Colonial Period in the Americas began with Christopher Columbus's arrival in 1492 and lasted until the independence movements of the 19th century. This era was characterized by Spanish territorial expansion, the establishment of administrative structures, and profound cultural exchange between European, Indigenous, and African populations.
+Thomas Henry Huxley, famously called "Darwin's bulldog" was a intense advocate of evolutionary theory especially publically, but wasn't entirely in agreement with all of Charles Darwins theories especially privatly. He was unsure about Darwins ideas of Gradualism and Natural Selection , yet unlike Darwin who was often not one to engage in public disourse, Huxley often challenged critiques of Darwins theory in public forums such as Journals. 
