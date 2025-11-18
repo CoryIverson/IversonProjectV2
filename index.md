@@ -1,18 +1,20 @@
 ---
 layout: index
 title: Home
-stories_heading: "Explore the stories"
+stories_heading: "Start the tour:"
 stories_intro: ""
-objects_heading: "See the objects behind the stories"
+objects_heading: ""
 objects_intro: "Browse {count} objects featured in the stories."
 ---
 
-## Welcome to the Iverson Special Collection Project (V2) Test.
+## Welcome to the Iverson Special Collection Project (V2).
 This site showcases the Darwin Special Collection at UCSB. This is currently a work in progress.
-- Our **[GitHub repository](https://github.com/UCSB-AMPLab/telar)**, where you can copy the template to create your own project
-- The **[documentation site](https://ampl.clair.ucsb.edu/telar-docs)**, where you can find guides and tutorials
+- Roadmap & Goals:
+Have all stories done, and ready for feedback by Friday 11/21.
+Take the feedback into consideration, and try to polish with an updated version by Tuesday, 11/25
+Have the finalized version ready to present by Monday, Dec 1st.
+Feedback on the current state of the project can be put [here](https://docs.google.com/forms/d/e/1FAIpQLScRYMDTashOQJDZuH608xJW_tGqDbX_byeKAC1gpd2TTR4vaA/viewform?usp=publish-editor) (it's anonymous ( ´ ω ` ) )
 
-No installation is required: you can manage your content with Google Sheets and publish it for free on GitHub Pages.
 
 ***Note:** To remove or replace this message, edit the `index.md` file in your repository.*
 
