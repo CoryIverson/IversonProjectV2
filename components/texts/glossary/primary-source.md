@@ -1,7 +1,9 @@
 ---
-term_id: livestock
-title: "Livestock"
-related_terms: pastures
+term_id: primary-source
+title: "Primary Source"
+related_terms: Archives
 ---
 
-Cattle farming is part of a long process of coexistence between humans and animals known as "domestication." Although domestication has traditionally been seen as a process in which humans dominated and tamed animals, recent research shows that this process was not fully controlled by humans and that many animals approached and coexisted with human societies of their own accord. In Africa and Eurasia, cattle farming has been practiced for at least 6,000 years, and in Spain, a livestock culture took shape throughout Antiquity and the Middle Ages as part of a network of trade and connection with other parts of Europe, the Middle East, and Asia. This form of livestock farming—centered on raising cows, sheep, goats, and pigs—depended on the use of horses and dogs to control freely-roaming livestock.
+A primary source is a piece of evidence created during the time period being studied. These materials such as letters, diaries, photographs, marginal notes, books, and other artifacts provide direct insight into how people observed, recorded, and interpreted the world around them. Historians rely on primary sources because they show not just what happened, but how individuals understood events and ideas in their own moment.
+
+Example: A 19th century scientist’s handwritten notes in the margin of a book, made while they were reading it.

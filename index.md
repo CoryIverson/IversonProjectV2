@@ -9,7 +9,7 @@ objects_intro: "Browse {count} objects featured in the stories."
 
 ## Welcome to the Iverson Special Collection Project (V2).
 This site showcases the Darwin Special Collection at UCSB. This is currently a work in progress.
-- Roadmap & Goals:
+Roadmap & Goals:
 * Have all stories done, and ready for feedback by Friday 11/21.
 * Take the feedback into consideration, and try to polish with an updated version by Tuesday, 11/25
 * Have the finalized version ready to present by Monday, Dec 1st.
